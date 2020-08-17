@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![zakrzewskib' github stats](https://github-readme-stats.vercel.app/api?username=zakrzewskib&hide=issues,stars&show_icons=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakrzewskib)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakrzewskib)
